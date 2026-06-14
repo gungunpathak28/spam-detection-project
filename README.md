@@ -54,3 +54,6 @@ Converted into numerical form using vectorizer
 Model predicts → Spam or Ham
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/6aa64fee-7dee-48d9-bc57-aaf802856b1b" />
 
+
+------------------------------------------------------------------------------------------
+
