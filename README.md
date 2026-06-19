@@ -10,7 +10,7 @@ A Machine Learning based web application that classifies messages as **Spam** or
 - Machine Learning model integration
 - Real-time prediction using trained model
 
----
+----
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS
