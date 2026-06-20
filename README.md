@@ -18,7 +18,7 @@ A Machine Learning based web application that classifies messages as **Spam** or
 - **Machine Learning:** Scikit-learn
 - **Libraries:** Pandas, NumPy, Pickle
 
----
+----
 
 ## 📂 Project Structure
 spam-detection-project/
