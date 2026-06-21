@@ -2,7 +2,7 @@
 
 A Machine Learning based web application that classifies messages as **Spam** or **Ham (Not Spam)**.
 
----
+----
 
 ## 🚀 Features
 - Detects spam messages instantly
