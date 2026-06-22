@@ -31,7 +31,7 @@ spam-detection-project/
 │── requirements.txt # Dependencies
 
 
----
+----
 
 ## ⚙️ Installation & Setup
 
