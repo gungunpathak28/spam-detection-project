@@ -1,4 +1,4 @@
-# 📩 Spam Detection System
+# 📩 Spam Detection System  
 
 A Machine Learning based web application that classifies messages as **Spam** or **Ham (Not Spam)**.
 
